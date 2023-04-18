@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\bin\Debug\net7.0\product-system-exercise.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\bin\Debug\net7.0\product-system-exercise.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\bin\Debug\net7.0\product-system-exercise.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\bin\Debug\net7.0\product-system-exercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\bin\Debug\net7.0\product-system-exercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\refint\product-system-exercise.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\product-system-exercise.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\product-system-exercise\obj\Debug\net7.0\ref\product-system-exercise.dll
